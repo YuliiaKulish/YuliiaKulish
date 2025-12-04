@@ -38,6 +38,8 @@ Tech: JavaScript, HTML, SCSS
 - English — B1  
 - Ukrainian — Native 
 
+---
+
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/yuliia-kulish/)
 - [Telegram](https://t.me/kulish_yuliia)  
