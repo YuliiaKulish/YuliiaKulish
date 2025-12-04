@@ -24,7 +24,7 @@ Tech: React, TypeScript, Vite, Axios, SCSS
 A modern responsive ice cream shop website with smooth animations, modals, and user interaction.
 Tech: HTML5, SCSS, JavaScript, BEM
 
-### 🔹 [The Met](https://yuliiakulish.github.io/TheMet/)
+### 🔹 [The Met](https://github.com/YuliiaKulish/TheMet/)
 A responsive landing page built using clean semantic HTML, Grid, Flexbox, and BEM.
 Tech: HTML, SCSS
 
